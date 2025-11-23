@@ -10,7 +10,7 @@ Web Dev
 * 🧠 Continuously improving skills in modern frontend technologies
 * 🤝 Open to collaborating on professional **React/Next.js** projects
 
-### Skills
+
 
 ### Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
