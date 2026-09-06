@@ -6,9 +6,9 @@ Web Dev
 
 * 🌍 Based in Tehran
 * ✉️ You can contact me at **alimoradi7718@gmail.com**
-* 💼 Frontend Developer experienced in **HTML, CSS, JavaScript, TypeScript, React, and Next.js**
-* 🧠 Continuously improving skills in modern frontend technologies
-* 🤝 Open to collaborating on professional **React/Next.js** projects
+* 💼 Full Stack Developer experienced in **React, Next.js, Node.js, Express, and NestJS**
+* 🧠 Continuously exploring **Software Architecture (Clean Architecture, DDD)** and scalable backend patterns
+* 🤝 Open to collaborating on professional **Full Stack web applications** and robust API development
 
 
 ### 💻 Languages
@@ -18,8 +18,8 @@ Web Dev
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database & BaaS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,6 +43,15 @@ Web Dev
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🛠️ Tools & Architecture
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
